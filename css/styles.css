@@ -1,0 +1,55 @@
+body{
+    background-size: ;
+	background-image: ;
+	background-image: cross-fade(20px);
+}
+.pic{
+ ;
+}
+.main{
+padding-top:200px;
+padding-bottom:150px;
+padding-right:100px;
+padding-left:200px;
+color: rgb(250, 246, 248);
+font-size:
+}
+.main1{
+font-size:20px;
+font-family: Arial, Helvetica, sans-serif;
+color: whitesmoke; 
+}
+.main2{
+	font-size: 40px;
+	font-family: Arial, Helvetica, sans-serif;
+	font-weight:bolder;  
+	margin:;
+}
+.main3{
+	font-size:20px;
+	font-family: Arial, Helvetica, sans-serif;
+	color: whitesmoke; 
+	}
+.container{
+	display: inline-flex;
+}
+.pic{
+	padding-top: 220px;
+	padding-right: 150px;
+	
+}
+
+a{
+  padding-left: ;
+}
+
+.image{
+	height: 50px;
+	width: 50px;
+	margin-top: 300px;
+}
+.image1{
+	height: 50px;
+	width: 50px;
+	margin-left: 600px;
+}
